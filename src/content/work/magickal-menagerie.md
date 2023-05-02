@@ -1,8 +1,8 @@
 ---
-title: Bloom Box
+title: Magickal Menagerie
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img: /assets/group project.PNG
+img_alt: A home background image of Magickal Menagerie
 description: |
   We paired with a cutting-edge music API and a team of horticulturalists
   to build AI-generated playlists that maximize houseplant health.
